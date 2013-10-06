@@ -10,8 +10,9 @@ to read the temperature and pressure from
 
 
 
-### Things I used in putting this together The Adafruit team has done
-a really nice job in putting together the IO library which includes
+### Things I used in putting this together
+
+The Adafruit team has done a really nice job in putting together the IO library which includes
 the I2C module.
 
 I was able to (more or less) implement the code to read the sensors
